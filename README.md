@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/email-0a0a0a?style=flat-square\&logo=gmail\&logoColor=white)](mailto:hi.adeleke@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-0a0a0a?style=flat-square\&logo=github\&logoColor=white)](https://github.com/LordAdeleke)
-[![VibeCity](https://img.shields.io/badge/vibecity247.com-0a0a0a?style=flat-square\&logo=vercel\&logoColor=white)](https://vibecity247.com)
+[![Portfolio](https://img.shields.io/badge/vibecity247.com-0a0a0a?style=flat-square\&logo=vercel\&logoColor=white)](https://adeleke.cv)
 
 </div>
 
@@ -21,7 +21,7 @@ role:      Integration Engineer · Backend Engineer · Developer  Relations
 
 focus:     Payments · APIs · Integrations · Backend Systems
 
-building:  VibeCity · VocaFlow AI
+building:  Vibecity247 · VocaFlow AI
 
 location:  Africa
 
@@ -34,9 +34,9 @@ status:    Getting ready for the next one
 
 I’m a Certified Software Engineer & Electrical/Electronics Engineer, focusing on **integrations, backend systems, APIs, and payment infrastructure**.
 
-I enjoy working where different systems meet — connecting products to payment providers, APIs to applications, services to services, and ideas to production.
+I enjoy working where different systems meet, building stuffs, APIs to applications, vibing with customers and engineers, services to services, and ideas to production.
 
-Currently building **VibeCity**, an operating system for African independent labels, while exploring AI, distributed systems, developer infrastructure, and the future of digital products in Africa.
+Currently building **VibeCity247**, an operating system for African independent labels, while exploring AI, distributed systems, developer infrastructure, and the future of digital products in Africa.
 
 I care about software that is **useful, reliable, maintainable, and built to survive production**.
 
@@ -70,8 +70,8 @@ Melon          Payments & Loyalty Integrations
                WooCommerce · Wallet flows · OTP · Payment gateways
                Provider integrations · Production infrastructure
 
-Student Mgmt   Python-based Student Management System
-               Data structures · CLI workflows · Software engineering
+Gispal         A product build for music bloggers.
+               An mp3 and video tagger, compress, and add jing to songs online,
 ```
 
 ---
