@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/email-0a0a0a?style=flat-square\&logo=gmail\&logoColor=white)](mailto:hi.adeleke@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-0a0a0a?style=flat-square\&logo=github\&logoColor=white)](https://github.com/LordAdeleke)
-[![Portfolio](https://img.shields.io/badge/vibecity247.com-0a0a0a?style=flat-square\&logo=vercel\&logoColor=white)](https://adeleke.cv)
+[![Portfolio](https://img.shields.io/badge/adeleke.cv-0a0a0a?style=flat-square\&logo=vercel\&logoColor=white)](https://adeleke.cv)
 
 </div>
 
