@@ -2,7 +2,7 @@
 
 <h1>Vanta Adeleke</h1>
 
-<p>Integration Engineer · Backend Engineer · DevRel</p>
+<p>Integration Engineer · Product Support Engineer · DevRel</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans\&weight=300\&size=13\&pause=1200\&color=666666\&center=true\&vCenter=true\&width=600\&lines=Building+systems+that+connect+people%2C+products+%26+payments;Integration+Engineer+%C2%B7+Backend+Engineer;Building+VibeCity+%E2%80%94+OS+for+African+Independent+Labels;Payments+%C2%B7+APIs+%C2%B7+Distributed+Systems;Interested+in+Tech%2C+Community+%26+the+Future;Nigeria+%E2%86%92+Everywhere)](https://git.io/typing-svg)
 
