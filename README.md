@@ -21,7 +21,7 @@ role:      Integration Engineer · Backend Engineer · Developer  Relations
 
 focus:     Payments · APIs · Integrations · Backend Systems
 
-building:  Vibecity247 · VocaFlow AI
+building:  Vibecity247.com · VocaFlow AI
 
 location:  Africa
 
